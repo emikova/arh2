@@ -1,0 +1,5 @@
+Najveci broj u trecoj koloni je:3
+Broj elemenata vecih od prosjeka elemenata na sporednoj dijagonali je:8
+Proizvod elemenata djeljivih sa 3 na glavnoj dijagonali:15
+Broj negativnih elemenata: 6
+Zbir brojeva jednakih -3 :0

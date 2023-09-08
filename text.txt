@@ -1,0 +1,5 @@
+Najveci element u trecoj koloni matrice: 17
+Elementi veci od prosjeka elemenata glavne dijagonale: 12
+Proizvod elemenata djeljivih sa 3 na glavnoj dijagonali: 6
+Broj negativnih elemenata u matrici: 13
+Zbir brojeva jednakih -3 u trecem redu: 0
